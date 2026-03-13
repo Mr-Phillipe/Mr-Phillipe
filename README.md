@@ -12,9 +12,9 @@
 
 ```ts
 const developer = {
-  name: "Your Name",
+  name: "Mr-Phillipe",
   role: "Frontend Developer",
-  technologies: ["React", "Nuxt", "TypeScript", "JavaScript"],
+  technologies: ["React", "React Native", "Vue", "Nuxt", "TypeScript", "JavaScript"],
   passion: "Building scalable and modern web applications",
 };
 ```
