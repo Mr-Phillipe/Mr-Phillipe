@@ -26,17 +26,17 @@ const developer = {
 ⚒ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,vue,nuxt,ts,js,html,css,tailwind,nodejs,git,github,vscode,figma&perline=7"/> </p>
 
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mr-Phillipe&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Phillipe&layout=compact&theme=tokyonight&hide_border=true"/> </p>
 
 🔥 GitHub Streak
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-Phillipe&theme=tokyonight&hide_border=true"/> </p>
 
 📈 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Phillipe&theme=tokyo-night"/> </p>
 
 👀 Visitors
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mr-Phillipe&style=for-the-badge&color=blueviolet"/> </p>
 
-⭐️ From YOUR_USERNAME
+⭐️ From Mr-Phillipe
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
