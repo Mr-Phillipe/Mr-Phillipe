@@ -39,4 +39,4 @@ const developer = {
 
 ⭐️ From YOUR_USERNAME
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/> ```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
