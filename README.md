@@ -31,7 +31,7 @@
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vue,nuxt,nextjs,reactnative,ts,js,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,vue,nuxt,nextjs,react-native,ts,js,html,css,tailwind" />
 </p>
 
 ### Backend
