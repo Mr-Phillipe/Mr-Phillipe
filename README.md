@@ -17,3 +17,26 @@ const developer = {
   technologies: ["React", "Nuxt", "TypeScript", "JavaScript"],
   passion: "Building scalable and modern web applications",
 };
+```
+
+🌐 Connect With Me
+<p align="center"> <a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=twitter"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=github"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=discord"/></a> </p>
+
+
+⚒ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,vue,nuxt,ts,js,html,css,tailwind,nodejs,git,github,vscode,figma&perline=7"/> </p>
+
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+
+🔥 GitHub Streak
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/> </p>
+
+📈 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/> </p>
+
+👀 Visitors
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/> </p>
+
+⭐️ From YOUR_USERNAME
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/> ```
