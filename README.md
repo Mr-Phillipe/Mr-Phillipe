@@ -33,7 +33,8 @@ const developer = {
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Mr-Phillipe&theme=tokyonight&no-frame=true&row=1&margin-w=15"/> </p>
 🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/Mr-Phillipe/Mr-Phillipe/output/github-contribution-grid-snake-dark.svg"/> </p>
+![Snake animation](https://github.com/Mr-Phillipe/Mr-Phillipe/blob/output/github-contribution-grid-snake-dark.svg)
+
 🌐 Connect With Me
 <p align="center">
 
